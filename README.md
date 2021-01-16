@@ -1,4 +1,4 @@
 ---
-permalink: /index.html
+permalink: /home.html
 ---
 # arissontampoc.github.io
