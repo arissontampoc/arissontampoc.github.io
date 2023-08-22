@@ -1,0 +1,40 @@
+div.about-me, div.experience, div.contact-me {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+div.about-me > p > .p-button {
+  display: contents;
+}
+
+div.about-me > p > .p-button > .p-button-icon {
+  padding-left: 10px;
+}
+
+/* div.about-me {
+  border: 1px dashed red;
+} */
+
+button > img {
+  max-width: 1.5rem;
+  max-height: 1.5rem;
+  width: auto;
+  height: auto;
+}
+
+.p-timeline-event {
+  min-height: 100px !important;
+}
+
+.p-timeline-event > .p-timeline-event-separator > .p-button {
+  color: black;
+}
+
+.p-timeline .p-timeline-vertical .p-timeline-event-opposite, .p-timeline.p-timeline-vertical .p-timeline-event-content {
+    padding-top: 13.5px !important;
+}
+
+.p-dialog-content > img {
+  width: 100%;
+  height: auto;
+}

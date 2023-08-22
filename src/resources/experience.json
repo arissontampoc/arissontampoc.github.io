@@ -1,0 +1,41 @@
+{
+  "experiences": [
+    {
+      "index": 0,
+      "icon": "cubicLogo.png",
+      "company": "Cubic Transportation Systems",
+      "title": "Senior Software Engineer",
+      "date": "February 2019 - Present",
+      "location": "San Diego, CA",
+      "details": "● Led the initiative to help improve Cubic’s accessibility by working closely with the UI/UX team to redesign one of their legacy apps, improving upon the old Angular code, and implementing those changes using JavaScript, TypeScript, React, and PrimeReact as the component library to be Web Content Accessibility Guidelines (WCAG) compliant. <br /> ● Contributed to the Java development and maintenance of Server-side applications using an Agile Development methodology from requirement definition to deployment. <br />● Collaborated with senior developers and software architects from both internal and external teams to design features based on customer requirements for Cubic’s Order Management, Virtual Token, and Payment systems.<br /> ● Supported in the design of and implementation of RESTful APIs using the client-server model with JSON requests and responses between internal applications and third-party services.<br /> ● Developed microservices with Spring Boot and Gradle.<br /> ● Supported in the design and implementation of database tables utilizing SQL and Liquibase with PostgreSQL.<br /> ● Developed and optimized high-traffic server software solutions for East Coast metro transit systems such as New York MTA and Boston MBTA.<br /> ● Supported the development and deployment of the OMNY contactless payment system.<br /> ● Contributed to the integration of ApplePay and GooglePay with Cubic’s payment application through development of APIs used to support virtual cards on mobile devices for customer use.<br /> ● Provided solutions to critical defects found in Staging or Production environments that require code analysis, a wide understanding of the internal systems and requirements, and communication with various teams.<br /> ● Developed JUnit tests with Mockito and AssertJ frameworks with at least 80% code coverage for newly developed code.<br /> ● Developed integration tests to test the end-to-end functionality of the application and database.<br /> ● Developed Jest unit tests to ensure newly developed React code is correct and tested, which improves on the legacy Angular code that had 0 tests.<br /> ● Participated in code reviews to ensure fundamental engineering principles, methodologies, best practices, and techniques.<br /> ● Supported in the Research & Development of internal React Application to display and implement CRUD operations on various settings of internal applications.<br /> ● Mentored associate-level software engineers.<br /> ",
+      "previousTitles": ["Software Engineer, Associate Software Engineer"]
+    },
+    {
+      "index": 1,
+      "company": "Arrowhead General Insurance Agency, Inc.",
+      "icon": "arrowheadLogo.png",
+      "title": "Web Developer Analyst",
+      "date": "September 2018 - February 2019",
+      "location": "San Diego, CA",
+      "details": "● Responsible for maintaining and enhancing the Innovation web application with Java, JavaScript, Velocity, XML, and HTML."
+    },
+    {
+      "index": 2,
+      "company": "Arrowhead General Insurance Agency, Inc.",
+      "icon": "arrowheadLogo.png",
+      "title": "Software Quality Assurance Analyst",
+      "date": "August 2017 - September 2018",
+      "location": "San Diego, CA",
+      "details": " ● Responsible for manual and automation testing of web applications to verify Insurance Program implementation and Policy Life Cycle integrity. <br />● Provided reports of defects and validation of code changes with knowledge of the line of business."
+    },
+    {
+      "index": 3,
+      "company": "Reflexion Health, Inc.",
+      "icon": "reflexionHealthLogo.png",
+      "title": "Software Engineering Intern",
+      "date": "November 2015 - June 2017",
+      "location": "San Diego, CA",
+      "details": "● Collaborated with the Server Development team in the development and maintenance of APIs and other back-end software in Golang.<br />● Also provided support in the migration of legacy Ruby on Rails code to Golang."
+    }
+  ]
+}
