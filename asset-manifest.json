@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c694c8b6.css",
+    "main.js": "/static/js/main.f0399069.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/042823AT_Resume.pdf": "/static/media/042823AT_Resume.d40829d441ce1bac9d6d.pdf",
+    "static/media/arrowheadCard.png": "/static/media/arrowheadCard.7dea5db6659981fa6d2c.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/reflexionCard.png": "/static/media/reflexionCard.837114429c5e4c63809a.png",
+    "static/media/cubicCard.png": "/static/media/cubicCard.de80aea14bbdf0784cff.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/reflexionHealthLogo.png": "/static/media/reflexionHealthLogo.d5e9acbe5d1e97086157.png",
+    "static/media/cubicLogo.png": "/static/media/cubicLogo.a02506f85b566a92c2df.png",
+    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/index.html",
+    "main.c694c8b6.css.map": "/static/css/main.c694c8b6.css.map",
+    "main.f0399069.js.map": "/static/js/main.f0399069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c694c8b6.css",
+    "static/js/main.f0399069.js"
+  ]
+}
