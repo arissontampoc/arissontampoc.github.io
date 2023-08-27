@@ -68,19 +68,20 @@ function Experience() {
   };
   
   return (
-    <div className="experience">
-      <h2>Experience</h2>
-      <Timeline
-        value={eventDetails}
-        align="alternate"
-        content={(e: ExperienceEventDetails) => customContent(e)}
-        marker={(e: ExperienceEventDetails) => customMarker(e)}
-      />      
-      
-      <LicensesAndCertifications/>
-      <Skills/>
+    <div 
+      id="experience"
+      className="experience">
+        <h2>Experience</h2>
+        <Timeline
+          value={eventDetails}
+          align="alternate"
+          content={(e: ExperienceEventDetails) => customContent(e)}
+          marker={(e: ExperienceEventDetails) => customMarker(e)}
+        />      
+        
+        <LicensesAndCertifications/>
+        <Skills/>
     </div>
-    
   );
 }
 

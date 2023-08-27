@@ -13,23 +13,25 @@ function emailOnClick(e: React.MouseEvent) {
 
 function ContactMe() {
   return (
-    <div className="contact-me">
-      <h2>Contact Me</h2>
-      <Button 
-        icon="pi pi-linkedin"
-        text
-        rounded
-        aria-label="LinkedIn"
-        onClick={(e) => linkedInOnClick(e)}
-      />
-      
-      <Button
-        icon="pi pi-envelope"
-        text
-        rounded
-        aria-label="E-mail"
-        onClick={(e) => emailOnClick(e)}
-      />
+    <div 
+      id="contact-me"
+      className="contact-me">
+        <h2>Contact Me</h2>
+        <Button 
+          icon="pi pi-linkedin"
+          text
+          rounded
+          aria-label="LinkedIn"
+          onClick={(e) => linkedInOnClick(e)}
+        />
+        
+        <Button
+          icon="pi pi-envelope"
+          text
+          rounded
+          aria-label="E-mail"
+          onClick={(e) => emailOnClick(e)}
+        />
     </div>
   );
 }
