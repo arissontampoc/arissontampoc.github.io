@@ -7,10 +7,10 @@ function Navigation() {
     const [activeIndex, setActiveIndex] = useState<number>();
 
     const menuItems: MenuItem[] = [
-      {label: 'Home', icon: 'pi pi-fw pi-home', url: '/'},
-      {label: 'About Me', icon: 'pi pi-fw pi-calendar', url: '/#about-me'},
-      {label: 'Work', icon: 'pi pi-fw pi-pencil', url: '/#experience'},
-      {label: 'Contact', icon: 'pi pi-fw pi-cog', url: '/#contact-me'}
+      {label: 'HOME', icon: 'pi pi-fw pi-home', url: '/'},
+      {label: 'ABOUT ME', icon: 'pi pi-fw pi-id-card', url: '/#about-me'},
+      {label: 'WORK', icon: 'pi pi-fw pi-briefcase', url: '/#experience'},
+      {label: 'CONTACT', icon: 'pi pi-fw pi-phone', url: '/#contact-me'}
     ];
 
     return (

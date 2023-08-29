@@ -56,6 +56,7 @@ function Experience() {
         size="small"
         rounded
         outlined
+        raised
         onClick={() => e.setVisible(true)}
         aria-label={label}
       >

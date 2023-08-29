@@ -1,4 +1,24 @@
-div.navigation {
+.intro {
+  display: flex;
+  justify-content: center;
+}
+
+.intro > .info {
+  padding-top: 3em;
+  padding-left: 15px;
+}
+
+.intro > .info > h1 {
+  margin-bottom: 0px;
+}
+
+.intro > .info > h5 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.navigation {
+  top: 0;
   position: fixed;
   width: 100%;
 }
@@ -22,17 +42,34 @@ div.navigation {
   align-content: center;
 }
 
-div.about-me, div.experience, div.contact-me {
-  padding-left: 3rem;
-  padding-right: 3rem;
-  padding-top: 2.5rem;
+a.p-menuitem-link {
+  justify-content: center;
+  font-size: 1.5em;
 }
 
-div.about-me > p > .p-button {
+a.p-menuitem-link > span:nth-child(odd) {
+  font-size: 1.5em;
+  padding-right: 1em;
+}
+
+.about-me, .contact-me, .experience {
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  padding-top: 8em;
+  padding-bottom: 50em;
+}
+
+.intro {
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  padding-top: 8em;
+}
+
+.about-me > p > .p-button {
   display: contents;
 }
 
-div.about-me > p > .p-button > .p-button-icon {
+.about-me > p > .p-button > .p-button-icon {
   padding-left: 10px;
 }
 
@@ -57,6 +94,27 @@ button > img {
 
 .p-timeline .p-timeline-vertical .p-timeline-event-opposite, .p-timeline.p-timeline-vertical .p-timeline-event-content {
     padding-top: 13.5px !important;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  padding-left: 5%;
+  border: 1px dashed red;
+}
+
+.skills > * {
+  width: 33%;
+}
+
+.skills > .language-skills > h4,
+.skills > .language-skills > ul,
+.skills > .computer-skills > h4,
+.skills > .computer-skills > ul,
+.skills > .soft-skills > h4,
+.skills > .soft-skills > ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .p-dialog-content > img {

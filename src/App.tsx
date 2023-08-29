@@ -3,10 +3,11 @@ import React from 'react';
 import './App.css';
 import 'primeicons/primeicons.css';
 
-import Navigation from './components/Navigation';
 import AboutMe from './components/AboutMe';
-import Experience from './components/Experience';
 import ContactMe from './components/ContactMe';
+import Experience from './components/Experience';
+import Intro from './components/Intro';
+import Navigation from './components/Navigation';
 
 //theme
 import "primereact/resources/themes/lara-light-indigo/theme.css";     
@@ -18,6 +19,7 @@ function App() {
   return (
     <div className="App">
       <Navigation/>
+      <Intro/>
       <AboutMe/>
       <Experience/>
       <ContactMe/>
