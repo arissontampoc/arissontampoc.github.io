@@ -100,7 +100,6 @@ button > img {
   display: flex;
   justify-content: center;
   padding-left: 5%;
-  border: 1px dashed red;
 }
 
 .skills > * {
