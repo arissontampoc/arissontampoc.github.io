@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4cd196ef.css",
+    "main.css": "/static/css/main.07568c0a.css",
     "main.js": "/static/js/main.233b7af8.js",
     "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/navigation.png": "/static/media/navigation.a86055c67b3dc1796113.png",
@@ -16,11 +16,11 @@
     "static/media/cubicLogo.png": "/static/media/cubicLogo.a02506f85b566a92c2df.png",
     "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
     "index.html": "/index.html",
-    "main.4cd196ef.css.map": "/static/css/main.4cd196ef.css.map",
+    "main.07568c0a.css.map": "/static/css/main.07568c0a.css.map",
     "main.233b7af8.js.map": "/static/js/main.233b7af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cd196ef.css",
+    "static/css/main.07568c0a.css",
     "static/js/main.233b7af8.js"
   ]
 }
